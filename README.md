@@ -2,7 +2,7 @@
 
 **Crafting digital experiences from cloud to code** ☁️💻
 
-![](https://komarev.com/ghpvc/?username=yourusername&color=blueviolet&style=flat-square)
+![](https://komarev.com/ghpvc/?username=Mlosnak&color=blueviolet&style=flat-square)
 
 ## 🛠 Tech Stack
 
