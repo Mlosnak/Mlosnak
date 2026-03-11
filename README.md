@@ -7,9 +7,9 @@ I am a Systems Information student and IT professional currently working at **Si
 ---
 
 ### 🛡️ Specialized Focus
-* Software Security:** Developing robust licensing systems and HWID-based authentication servers using .NET.
-* Low-Level Research:** Exploring Windows Kernel manipulation and memory management to build resilient digital defenses.
-* Full Stack Engineering:** Creating secure web platforms with modern stacks (React, Node.js, PostgreSQL) and MFA/JWT protocols.
+* Software Security: Developing robust licensing systems and HWID-based authentication servers using .NET.
+* Low-Level Research: Exploring Windows Kernel manipulation and memory management to build resilient digital defenses.
+* Full Stack Engineering: Creating secure web platforms with modern stacks (React, Node.js, PostgreSQL) and MFA/JWT protocols.
 
 ---
 
