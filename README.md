@@ -2,7 +2,7 @@
 
 **Full Stack Developer | Information Security Researcher | IT Support Specialist**
 
-I am a Systems Information student and IT professional currently working at **Sigma Software**, where I manage ERP/Fiscal systems and SQL databases. Beyond my corporate role, I am deeply invested in cybersecurity, reverse engineering, and low-level development.
+I am a Systems Information student and IT professional currently working at **Alternativa Sistemas**, where I manage ERP/Fiscal systems and SQL databases. Beyond my corporate role, I am deeply invested in cybersecurity, reverse engineering, and low-level development.
 
 ---
 
